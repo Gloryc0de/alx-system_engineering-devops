@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 327 heloo ..
+chmod o+rwx hello
